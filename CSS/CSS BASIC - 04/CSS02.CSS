@@ -1,0 +1,27 @@
+table
+{
+   
+    background-image:url(Dog-02.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:inherit;
+    border-spacing: 10px;
+    border-collapse: separate;
+    empty-cells: hide;
+    table-layout: fixed;
+}
+th,tr,th
+{
+    color: black;
+    padding: 10px;;
+    width: 100px;
+    height: 100px;    
+    text-align: center;
+    font-size: large;
+}
+caption
+{
+    font-size: x-large;
+    caption-side: top;
+
+}

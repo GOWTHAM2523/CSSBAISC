@@ -1,0 +1,19 @@
+/* 
+.b1 
+{
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    border-color: brown;
+    border-style: dashed;
+}*/
+.b1
+{
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:left;
+    border-color: brown;
+    border-style: dashed;
+}
+
+

@@ -1,0 +1,53 @@
+div
+{
+    list-style-position:inside;
+    list-style-type:upper-roman;
+    color: white;
+   
+}
+.ul1
+{
+   
+    color: black;
+    list-style-type: square;
+    list-style-position: inside;
+    list-style-image: url(Dog-02.png);
+    background-size: contain;
+    border-style:double;
+}
+.ul2
+{
+   
+    color: black;
+    list-style-type: square;
+    list-style-image: url(Dog-03.png);
+    border-style:dotted ;
+}
+.ul3
+{
+   
+    color: black;
+    list-style-type:;
+    list-style-image: url(Dog-01.png);
+    border-style:dashed;
+    border-style:dashed;
+}
+ul
+{
+   
+    color: black;
+    list-style-type: square;
+}
+.ul4
+{
+    list-style: inside url(Dog-04.png);
+}
+.l1{
+    color: brown;
+    list-style-type: circle;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: double;
+    text-decoration-style: double;
+    text-shadow: 10px 7px 05px red;
+}

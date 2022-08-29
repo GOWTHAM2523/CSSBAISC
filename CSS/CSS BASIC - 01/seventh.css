@@ -1,0 +1,22 @@
+.c1{
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-decoration-color: blue;
+}
+.c2{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-color: red;
+
+}
+.c3{
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: green;
+    text text-indent: 50px;
+    text-shadow: 5px 7px 12px red;
+}
+.p1{
+    text-align: justify;
+
+}

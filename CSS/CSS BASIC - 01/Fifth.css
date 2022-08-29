@@ -1,0 +1,16 @@
+.b{
+    background-color: black;
+}
+.t1{
+    text-align: center;
+    color: red;
+}
+.t2{ text-align: left;
+    color: green;
+}
+.t3{ text-align: right;
+    color: orange;
+}
+.t4{ text-align: justify;
+    color: pink;
+}

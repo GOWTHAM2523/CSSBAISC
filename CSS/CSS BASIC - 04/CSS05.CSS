@@ -1,0 +1,11 @@
+h1
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: blue;
+}
+.p1 
+{
+    padding: 10px 20px 30px 40px;
+    background-color: blueviolet;
+}
