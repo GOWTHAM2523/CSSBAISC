@@ -1,0 +1,47 @@
+.b{
+    background-color: black;
+}
+.t1{
+    text-align: center;
+    color: red;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+.t2{ text-align: left;
+    color: green;
+    text-transform: lowercase;
+    text-decoration: underline;
+    text-decoration-style:wavy;
+    text-decoration-color:chartreuse;
+}
+.t3{ text-align: right;
+    color: orange;
+    text-transform: uppercase;
+    text-decoration: overline;
+    text-decoration-style: double;
+    text-decoration-color: darkgoldenrod;
+}
+.t4{
+    text-align:center;
+    color: white;
+    text-transform: initial;
+    text-decoration:line-through;
+    text-decoration-style:solid;
+    text-decoration-color:yellow;
+}
+.t5{
+    text-indent: 100px; 
+    text-align: justify;
+    color: pink;
+}
+.t6{
+    text-shadow: 20px 10px 0px blue;
+    word-spacing: 100px;
+}
+.t7{
+    letter-spacing: 10px;
+}
+.t8{
+    word-spacing: 100px;
+}

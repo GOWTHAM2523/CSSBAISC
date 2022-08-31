@@ -1,0 +1,20 @@
+.d1
+{
+    background-image: url(DOG\ -01.jpg);
+    background-repeat:no-repeat;
+    background-repeat: space;
+    background-size: contain;
+    height: 300px;
+    width: 300px;
+    color: gold;
+}
+#d2{
+
+    background-image: url(DOG\ -02.jpg);
+    background-repeat:no-repeat;
+    background-position-y:center;
+    background-size: contain;
+    height: 300px;
+    width: 3000px;
+    color: gold;
+}

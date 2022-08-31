@@ -1,0 +1,32 @@
+.ol1{
+    list-style-type: decimal;
+}
+.ol2{
+    list-style-type: decimal-leading-zero;
+}
+.ol3{
+    list-style-type: upper-alpha;
+}
+.ol4{
+    list-style-type: lower-alpha;
+}.ol5{
+    list-style-type: upper-roman;
+}.ol6{
+    list-style-type: lower-roman;
+}
+.ul1{
+    list-style-type:circle;
+}
+.ul2{
+    list-style-type:disc;
+}
+.ul3{
+    list-style-type:square;
+}
+.ul4{
+    list-style-type:disc;
+}.ul5{
+    list-style-type:square;
+}.ul6{
+    list-style-type:circle;
+}
