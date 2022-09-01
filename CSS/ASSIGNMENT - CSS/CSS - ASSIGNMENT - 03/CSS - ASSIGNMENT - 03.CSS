@@ -2,19 +2,26 @@
 {
     background-image: url(DOG\ -01.jpg);
     background-repeat:no-repeat;
-    background-repeat: space;
+    background-position: center;
     background-size: contain;
     height: 300px;
     width: 300px;
     color: gold;
+    
 }
 #d2{
 
     background-image: url(DOG\ -02.jpg);
     background-repeat:no-repeat;
-    background-position-y:center;
+    background-position-y:bottom;
     background-size: contain;
     height: 300px;
-    width: 3000px;
+    width: 300px;
     color: gold;
+    border: 05px;
+    border-style:dashed;
+    padding: 05px;
+}
+body{
+    background-color: black;
 }
