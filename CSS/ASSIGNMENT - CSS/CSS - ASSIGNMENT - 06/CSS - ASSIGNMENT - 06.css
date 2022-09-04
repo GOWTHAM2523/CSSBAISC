@@ -1,0 +1,53 @@
+body
+{
+    background-image:url(https://img.freepik.com/premium-photo/scattered-whatsapp-logos-3d-background_125322-11.jpg?w=2000);
+    height: 1000px;
+    width: 1000px;
+
+}
+.top{
+    background-color:gainsboro;
+    height: 80px;
+    width: 470px;
+    border-style: solid;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 05px;   
+    margin-left: 10px; 
+
+}
+.chat{
+    height: 730px;
+    width: 500px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left: x;
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--WAKqnINn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tw0nawnvo0zpgm5nx4fp.png);
+    background-size: contain;
+    margin-left: 300px;
+}
+.head{
+ padding: 50px;
+ margin-bottom: 10px;
+}
+.Rajesh{
+    display:inline-block;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
+.image{
+    border-radius: 50px;
+}
+.gowtham
+{
+    display:inline-block;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    float: right;
+    margin-right: 10px;
+}
