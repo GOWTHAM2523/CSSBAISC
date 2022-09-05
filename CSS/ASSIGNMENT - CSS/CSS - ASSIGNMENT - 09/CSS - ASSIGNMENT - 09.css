@@ -1,0 +1,47 @@
+.maindiv{
+background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png);
+background-size: cover;
+height: 700px;
+width: 400px;
+position: relative;
+}
+.paragraphdiv{
+    background-color:#ffffff;
+    height: 200px;
+    width: 400px;
+    position: relative;
+    top: 520px;
+    border-radius:20px;
+}
+h1{
+    color: #5752ab;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p{
+    margin-top: -20px;
+    color: #323f4b;
+    margin-left: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.button1{
+    height: 40px;
+    width: 130px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin-left: 20px;
+
+}
+.button2{
+    height: 40px;
+    width: 130px;
+    border-radius: 10px;
+    background-color: #5752ab;
+    color: #ffffff;
+    padding: 10px;
+    margin-left: 20px;
+
+}
